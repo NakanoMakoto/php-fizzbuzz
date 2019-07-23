@@ -4,8 +4,8 @@ namespace App;
 
 class FizzBuzz
 {
-    public function answer()
+    public function answer($number)
     {
-        return 1;
+        return $number;
     }
 }
