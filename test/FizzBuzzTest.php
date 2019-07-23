@@ -28,4 +28,12 @@ class FizzBuzzTest extends TestCase
 
         $this->assertEquals("fizz", $result);
     }
+
+    public function testReturnBuzz()
+    {
+        $fizzbuzz = new FizzBuzz();
+        $result = $fizzbuzz->answer(5);
+
+        $this->assertEquals("buzz", $result);
+    }
 }
