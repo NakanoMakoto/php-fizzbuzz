@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":253:{a:2:{s:7:"defects";a:2:{s:27:"FizzBuzzTest::testReturnOne";i:4;s:27:"FizzBuzzTest::testReturnTwo";i:3;}s:5:"times";a:3:{s:27:"FizzBuzzTest::testReturnOne";d:0.003;s:29:"FizzBuzzTest::testReturnHello";d:0.035;s:27:"FizzBuzzTest::testReturnTwo";d:0.013;}}}
