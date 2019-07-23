@@ -10,7 +10,7 @@ class FizzBuzz
             return "fizzbuzz";
         }
         if ($number%3 === 0) {
-            return "fizz";
+            return "aho";
         }
         if ($number%5 === 0) {
             return "buzz";
