@@ -2,8 +2,10 @@
 declare(strict_types=1);
 namespace App;
 
-class FizzBuzz {
-    public function answer() {
+class FizzBuzz
+{
+    public function answer()
+    {
         return 1;
     }
 }
